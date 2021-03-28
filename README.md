@@ -5,6 +5,7 @@ The user only has to specify:
   1. The path of the dataset file (preferably in Excel format)
   2. The names of input variables (each name enclosed in single quotes and separated by commas) 
   3. The name of output variable (Dynamic Modulus in this case) 
+  
 Note that the names of the variables should be written exactly as they are written in the Excel dataset file. 
 
 
